@@ -11,5 +11,6 @@
 
   "editor.bracketPairColorization.enabled": true,
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.colorTheme": "One Dark Pro"
+  "workbench.colorTheme": "One Dark Pro",
+  "reactSnippets.settings.importReactOnTop": false
 }
